@@ -1,8 +1,7 @@
 # Genereic script to Deploy & Interact with smart contracts
 
-|--------|-------------------------------|
 | Author | v4ss[https://github.com/v4ss] |
-|--------|-------------------------------|
+| ------ | ----------------------------- |
 
 ## Install
 
