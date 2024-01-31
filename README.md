@@ -30,7 +30,7 @@ npm run update-dep
 
 ## Setting up the kit
 
-1. Rename the `.env.exemple` to `.env` and write your private key, RPC URL (blockchain network) you want to use and the name of the contract you want to deploy/interact
+1. Rename the `.env.example` to `.env` and write your private key, RPC URL (blockchain network) you want to use and the name of the contract you want to deploy/interact
 
 2. Paste the code of the smart contract in the `File.sol`.
 
